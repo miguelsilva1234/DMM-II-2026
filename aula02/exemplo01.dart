@@ -1,0 +1,10 @@
+void main() {
+  double nota = 6.5;
+  if (nota >= 9.0) {
+    print("Excelente");
+  } else if (nota >= 7.0) {
+    print("Aprovado");
+  } else {
+    print("Reprovado");
+  }
+}
